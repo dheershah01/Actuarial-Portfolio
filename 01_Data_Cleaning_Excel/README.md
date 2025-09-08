@@ -1,4 +1,4 @@
-# Data Quality Checks in Excel (Demo)
+# Data Quality Checks in Excel 
 
 **Tools:** Excel (formulas, conditional formatting, data validation)
 
