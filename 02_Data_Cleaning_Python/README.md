@@ -21,3 +21,5 @@ A synthetic dataset (~4500+ rows) of insurance policies was created, with realis
 
 ⚠️ Note: This demo uses anonymised data. Original datasets used in internships are confidential.
 
+![Excel Preview](assets/python1.png)
+![Excel Preview](assets/python2.png)
