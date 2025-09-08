@@ -19,3 +19,6 @@ The visuals here are powered by a synthetic dataset of  workflow tasks across de
 
 ⚠️ Note: This demo uses anonymised data. Original dashboard used confidential datasets.
 
+![Excel Preview](assets/powerbi1.png)
+![Excel Preview](assets/powerbi2.png)
+
