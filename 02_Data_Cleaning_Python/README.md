@@ -1,4 +1,4 @@
-# Data Quality Checks in Python (Demo)
+# Data Quality Checks in Python 
 
 **Tools:** Python (pandas, numpy)
 
