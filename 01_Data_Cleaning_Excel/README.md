@@ -12,12 +12,10 @@ The original dataset was cleaned during my internship at Lux Actuaries Kenya, bu
 - Range checks for numeric values (e.g., no negative premiums or claims)
 - Business rule checks (e.g., Expiry after Start, Loss within coverage)
 
-![Excel Preview](assets/Excel1.png)  
-![Excel Preview](assets/Excel2.png)  
-
-[📂 View Project](01_Data_Cleaning_Excel.xlsx)
 **Deliverables:**
 - `Data_Checks.xlsx` — Excel file with all checks applied
 
 ⚠️ Note: This demo uses anonymised data based on real structures. Original datasets remain confidential.
 
+![Excel Preview](assets/Excel1.png)  
+![Excel Preview](assets/Excel2.png)  
