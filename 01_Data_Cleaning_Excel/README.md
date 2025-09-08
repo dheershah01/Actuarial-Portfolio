@@ -15,7 +15,7 @@ The original dataset was cleaned during my internship at Lux Actuaries Kenya, bu
 ![Excel Preview](assets/Excel1.png)  
 ![Excel Preview](assets/Excel2.png)  
 
-[📂 View Project](./Data%20Cleaning%20Excel)
+[📂 View Project](./Data%20Cleaning%20Excel/01_Data_Cleaning_Excel.xlsx)
 **Deliverables:**
 - `Data_Checks.xlsx` — Excel file with all checks applied
 
