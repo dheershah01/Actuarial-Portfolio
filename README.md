@@ -1,3 +1,11 @@
+---
+
+## 🙋 About Me
+- 🎓 Student at Warwick, aspiring Actuary  
+- 🎯 Actuarial exam exemptions target: CS1, CM1, CB1, CB2  
+- 🛠️ Skills: IFRS 17, Solvency II, Excel, Python, R, Power BI
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/dheershah01)  
 
 # Actuarial Portfolio
 
