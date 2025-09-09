@@ -15,3 +15,5 @@ The methodology reflects industry-standard actuarial reserving practices, while 
 
 ⚠️ **Note:** This demo uses anonymised structures inspired by real reserving workflows. Original client datasets remain confidential.  
 
+![Excel Preview](assets/IBNR1.png)  
+![Excel Preview](assets/IBNR2.png)  
