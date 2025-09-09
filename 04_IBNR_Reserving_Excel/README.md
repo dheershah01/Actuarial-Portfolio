@@ -14,6 +14,7 @@ The methodology reflects industry-standard actuarial reserving practices, while 
 - `04_IBNR_Reserving_Excel.xlsx` — Excel workbook with all calculations  
 
 ⚠️ **Note:** This Model is only for the "Fire Domestic "class of business.
+
 ⚠️ **Note:** This demo uses anonymised structures inspired by real reserving workflows. Original client datasets remain confidential.  
 
 ![Excel Preview](assets/IBNR1.png)  
