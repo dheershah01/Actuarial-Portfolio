@@ -1,3 +1,5 @@
+# IFRS 17 Implementation
+
 **Tools:** Excel (formulas, pivot tables, charts)
 
 This project demonstrates a simplified IFRS 17 (PAA) implementation using insurance premium and claims data.  
@@ -17,3 +19,7 @@ The model shows how Unearned Premium Reserves (UPR) translate into Earned Premiu
 
 ⚠️ Note: This demo uses anonymised, non-confidential data structures. Premiums were available for 2016–2017, while claims data covered 2022–2023. The purpose is to demonstrate IFRS 17 mechanics, not produce business-ready results.
 
+![Excel Preview](assets/IFRS1.png)  
+![Excel Preview](assets/IFRS2.png)   
+![Excel Preview](assets/IFRS3.png) 
+![Excel Preview](assets/IFRS4.png)  
