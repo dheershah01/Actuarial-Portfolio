@@ -14,7 +14,7 @@ The model shows how Unearned Premium Reserves (UPR) translate into Earned Premiu
 - Charts: visuals of Earned Premium, Claims Incurred, Service Result, and Liabilities
 
 **Deliverables:**
-- `IFRS17_MiniImplementation.xlsx` — Excel model with all calculations and outputs
+- `IFRS17_Implementation.xlsx` — Excel model with all calculations and outputs
 
 
 ⚠️ Note: This demo uses anonymised, non-confidential data structures. Premiums were available for 2016–2017, while claims data covered 2022–2023. The purpose is to demonstrate IFRS 17 mechanics, not produce business-ready results.
